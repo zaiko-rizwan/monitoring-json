@@ -1,0 +1,1069 @@
+{
+  "card_mapping": {
+    "5e487e00": "Syukri, S.T.,M.T",
+    "6da3341f": "Muh. Chaerur Rijal, S.T.,M.T",
+    "7677d505": "Rumah Tangga",
+    "9abc7900": "Zamruddin, S.T.,M.T",
+    "9b5cd605": "Dina Desriani",
+    "d4a71e85": "Kartika Dewi, S.T.,M.T"
+  },
+  "room1": {
+    "access_history": {
+      "access_records": {
+        "-OVH9fkvU8FxF1W9sCvh": {
+          "card_id": "9abc7900",
+          "lecturer": "",
+          "status": "denied",
+          "timestamp": "08:00:33"
+        },
+        "-OVH9yCUhyKB8qz0WqRo": {
+          "card_id": "6da3341f",
+          "lecturer": "Muh. Chaerur Rijal, S.T.,M.T",
+          "status": "granted",
+          "timestamp": "15:38:42"
+        },
+        "-OVHA-xHqkplE-WHlFj7": {
+          "card_id": "6da3341f",
+          "lecturer": "",
+          "status": "locked",
+          "timestamp": "15:38:53"
+        },
+        "-OVHApVovy7hnXFhljfH": {
+          "card_id": "6da3341f",
+          "lecturer": "Muh. Chaerur Rijal, S.T.,M.T",
+          "status": "denied",
+          "timestamp": "08:01:08"
+        },
+        "-OVHDEzRKxcBH5IVA8CC": {
+          "card_id": "6da3341f",
+          "lecturer": "Muh. Chaerur Rijal, S.T.,M.T",
+          "status": "granted",
+          "timestamp": "15:53:01"
+        },
+        "-OVHDaZzEFvduXmrP8jh": {
+          "card_id": "9cd3d505",
+          "lecturer": "",
+          "status": "denied",
+          "timestamp": "08:00:12"
+        },
+        "-OVHFP5t7-Fs7lftMb35": {
+          "card_id": "6da3341f",
+          "lecturer": "Muh. Chaerur Rijal, S.T.,M.T",
+          "status": "granted",
+          "timestamp": "16:02:25"
+        },
+        "-OVHFQhww47QGacPEeFK": {
+          "card_id": "6da3341f",
+          "lecturer": "",
+          "status": "locked",
+          "timestamp": "16:02:33"
+        },
+        "-OVHFUXPQSvs8ytG7j00": {
+          "card_id": "9abc7900",
+          "lecturer": "Syamruddin, S.T.,M.T",
+          "status": "granted",
+          "timestamp": "16:02:49"
+        },
+        "-OVHFV-pGMan3afL2ZQj": {
+          "card_id": "9abc7900",
+          "lecturer": "",
+          "status": "locked",
+          "timestamp": "16:02:51"
+        },
+        "-OVHIWygzTaGQQl_9JNk": {
+          "card_id": "6da3341f",
+          "lecturer": "Muh. Chaerur Rijal, S.T.,M.T",
+          "status": "granted",
+          "timestamp": "16:16:02"
+        },
+        "-OVHIXo73tPpHm74mb8k": {
+          "card_id": "6da3341f",
+          "lecturer": "",
+          "status": "locked",
+          "timestamp": "16:16:09"
+        },
+        "-OVHJOhZD382juMKuUAV": {
+          "card_id": "6da3341f",
+          "lecturer": "Muh. Chaerur Rijal, S.T.,M.T",
+          "status": "granted",
+          "timestamp": "16:19:54"
+        },
+        "-OVHJPgEfJGFq_0U3H9i": {
+          "card_id": "6da3341f",
+          "lecturer": "",
+          "status": "locked",
+          "timestamp": "16:19:58"
+        },
+        "-OVHMLremlzHpEYeX_x6": {
+          "card_id": "d9d1d605",
+          "lecturer": "",
+          "status": "denied",
+          "timestamp": "16:32:49"
+        },
+        "-OVHMQ8yFIC1xhaG0IXV": {
+          "card_id": "6da3341f",
+          "lecturer": "Muh. Chaerur Rijal, S.T.,M.T",
+          "status": "granted",
+          "timestamp": "16:33:06"
+        },
+        "-OVHMQoiZFAE4mx0WL2f": {
+          "card_id": "6da3341f",
+          "lecturer": "",
+          "status": "locked",
+          "timestamp": "16:33:08"
+        },
+        "-OVHNolQGDUII_yrJpgu": {
+          "card_id": "6da3341f",
+          "lecturer": "Muh. Chaerur Rijal, S.T.,M.T",
+          "status": "granted",
+          "timestamp": "16:39:14"
+        },
+        "-OVHNqKzQSgxM8Mz67Kk": {
+          "card_id": "6da3341f",
+          "lecturer": "",
+          "status": "locked",
+          "timestamp": "16:39:19"
+        },
+        "-OVHOyUIGYnO7YWtiOAE": {
+          "card_id": "6da3341f",
+          "lecturer": "Muh. Chaerur Rijal, S.T.,M.T",
+          "status": "granted",
+          "timestamp": "16:44:15"
+        },
+        "-OVHP0KwqtfCkbIoutGY": {
+          "card_id": "6da3341f",
+          "lecturer": "",
+          "status": "locked",
+          "timestamp": "16:44:27"
+        },
+        "-OVHP7EKXB1GcK8-8K9-": {
+          "card_id": "6da3341f",
+          "lecturer": "Muh. Chaerur Rijal, S.T.,M.T",
+          "status": "granted",
+          "timestamp": "16:44:56"
+        },
+        "-OVHP9d-lfHH9iFc6vI4": {
+          "card_id": "6da3341f",
+          "lecturer": "",
+          "status": "locked",
+          "timestamp": "16:45:05"
+        },
+        "-OVHQeyUHDYtmuZMqz2R": {
+          "card_id": "6da3341f",
+          "lecturer": "Muh. Chaerur Rijal, S.T.,M.T",
+          "status": "granted",
+          "timestamp": "16:51:40"
+        },
+        "-OVHQi1dEtNmCdKdMRFw": {
+          "card_id": "6da3341f",
+          "lecturer": "",
+          "status": "locked",
+          "timestamp": "16:51:52"
+        },
+        "-OVHRcNXV5FozfFUbiJX": {
+          "card_id": "6da3341f",
+          "lecturer": "Muh. Chaerur Rijal, S.T.,M.T",
+          "status": "granted",
+          "timestamp": "16:55:51"
+        },
+        "-OVHRhGA7FLbY8JMl_M9": {
+          "card_id": "6da3341f",
+          "lecturer": "",
+          "status": "locked",
+          "timestamp": "16:56:11"
+        },
+        "-OVHS7iRHQEefn8bSt8c": {
+          "card_id": "5e487e00",
+          "lecturer": "",
+          "status": "denied",
+          "timestamp": "16:58:03"
+        },
+        "-OVHS8J7ctEmtaIpmBXy": {
+          "card_id": "5e487e00",
+          "lecturer": "",
+          "status": "denied",
+          "timestamp": "16:58:06"
+        },
+        "-OVHSA7AAbCpXIrAMnDN": {
+          "card_id": "5e487e00",
+          "lecturer": "",
+          "status": "denied",
+          "timestamp": "16:58:13"
+        },
+        "-OVHY8EFX0vS-oohAgk7": {
+          "card_id": "d9d1d605",
+          "lecturer": "",
+          "status": "denied",
+          "timestamp": "17:24:18"
+        },
+        "-OVHY8sA7FUE_-AS4ou0": {
+          "card_id": "d9d1d605",
+          "lecturer": "",
+          "status": "denied",
+          "timestamp": "17:24:21"
+        },
+        "-OVHYCATgx9dNic7XRd5": {
+          "card_id": "6da3341f",
+          "lecturer": "Muh. Chaerur Rijal, S.T.,M.T",
+          "status": "granted",
+          "timestamp": "17:24:35"
+        },
+        "-OVHYM0orjAy6FjOnSwq": {
+          "card_id": "6da3341f",
+          "lecturer": "",
+          "status": "locked",
+          "timestamp": "17:25:15"
+        },
+        "-OVHYwQBfe_Bad2KH-AH": {
+          "card_id": "6da3341f",
+          "lecturer": "Muh. Chaerur Rijal, S.T.,M.T",
+          "status": "granted",
+          "timestamp": "17:27:48"
+        },
+        "-OVHZcBrnjj-yxV6wCPe": {
+          "card_id": "d9d1d605",
+          "lecturer": "",
+          "status": "denied",
+          "timestamp": "17:30:48"
+        },
+        "-OVHZcaT5249l9TSefTR": {
+          "card_id": "d9d1d605",
+          "lecturer": "",
+          "status": "denied",
+          "timestamp": "17:30:49"
+        },
+        "-OVH_SN4ZqjPx_Ooy8HE": {
+          "card_id": "6da3341f",
+          "lecturer": "Muh. Chaerur Rijal, S.T.,M.T",
+          "status": "granted",
+          "timestamp": "17:34:26"
+        },
+        "-OVH_WOh44oNOH6hGhLW": {
+          "card_id": "6da3341f",
+          "lecturer": "",
+          "status": "locked",
+          "timestamp": "17:34:42"
+        },
+        "-OVH_g-3JCrLuuJNScQO": {
+          "card_id": "6da3341f",
+          "lecturer": "Muh. Chaerur Rijal, S.T.,M.T",
+          "status": "granted",
+          "timestamp": "17:35:25"
+        },
+        "-OVH_j-GzDIte6B_dGAW": {
+          "card_id": "6da3341f",
+          "lecturer": "",
+          "status": "locked",
+          "timestamp": "17:35:37"
+        },
+        "-OVHaC5yPS-k10GlvbNL": {
+          "card_id": "7677d505",
+          "lecturer": "Rumah Tangga",
+          "status": "granted",
+          "timestamp": "17:37:41"
+        },
+        "-OVHadtd1zjJDXx7CTXz": {
+          "card_id": "6da3341f",
+          "lecturer": "Muh. Chaerur Rijal, S.T.,M.T",
+          "status": "granted",
+          "timestamp": "17:39:39"
+        },
+        "-OVHaeV0w3_kEWIXg8fj": {
+          "card_id": "6da3341f",
+          "lecturer": "",
+          "status": "locked",
+          "timestamp": "17:39:41"
+        },
+        "-OVHafmQBW1HLAxsj-qi": {
+          "card_id": "7677d505",
+          "lecturer": "Rumah Tangga",
+          "status": "granted",
+          "timestamp": "17:39:45"
+        },
+        "-OVHagBuRcZ37ww-I75I": {
+          "card_id": "7677d505",
+          "lecturer": "",
+          "status": "locked",
+          "timestamp": "17:39:48"
+        },
+        "-OVHajBwdcVwdp-wt5er": {
+          "card_id": "9abc7900",
+          "lecturer": "Syamruddin, S.T.,M.T",
+          "status": "granted",
+          "timestamp": "17:40:00"
+        },
+        "-OVHam-8e4O5o1B1c4hI": {
+          "card_id": "9abc7900",
+          "lecturer": "",
+          "status": "locked",
+          "timestamp": "17:40:12"
+        },
+        "-OVHbHdy-GkPAmRgeJFN": {
+          "card_id": "9abc7900",
+          "lecturer": "Syamruddin, S.T.,M.T",
+          "status": "granted",
+          "timestamp": "17:42:26"
+        },
+        "-OVHbLYhxvTRaV3YhDy2": {
+          "card_id": "9abc7900",
+          "lecturer": "",
+          "status": "locked",
+          "timestamp": "17:42:42"
+        },
+        "-OVHcX0ig5wV7XJiQ93_": {
+          "card_id": "9abc7900",
+          "lecturer": "Syamruddin, S.T.,M.T",
+          "status": "granted",
+          "timestamp": "17:47:51"
+        },
+        "-OVHcZiiFG3FqfWKX8DE": {
+          "card_id": "9abc7900",
+          "lecturer": "",
+          "status": "locked",
+          "timestamp": "17:48:02"
+        },
+        "-OVHcnTWaloXVoyR-a4c": {
+          "card_id": "9abc7900",
+          "lecturer": "Syamruddin, S.T.,M.T",
+          "status": "granted",
+          "timestamp": "17:49:02"
+        },
+        "-OVHds0qIe7bKy0GinDD": {
+          "card_id": "9abc7900",
+          "lecturer": "",
+          "status": "locked",
+          "timestamp": "17:53:43"
+        },
+        "-OVHdtD_zfd4vZ4YK_iR": {
+          "card_id": "9abc7900",
+          "lecturer": "Syamruddin, S.T.,M.T",
+          "status": "granted",
+          "timestamp": "17:53:48"
+        },
+        "-OVHeSvO5qCkVNpNhfPg": {
+          "card_id": "9abc7900",
+          "lecturer": "",
+          "status": "locked",
+          "timestamp": "17:56:17"
+        },
+        "-OVHeVQGFUyw-UxbxOKL": {
+          "card_id": "9abc7900",
+          "lecturer": "Syamruddin, S.T.,M.T",
+          "status": "granted",
+          "timestamp": "17:56:28"
+        },
+        "-OVHf7tqlNgTByyVwQTO": {
+          "card_id": "6da3341f",
+          "lecturer": "Muh. Chaerur Rijal, S.T.,M.T",
+          "status": "granted",
+          "timestamp": "17:59:15"
+        },
+        "-OVHiUOqd746VYOJD4Zo": {
+          "card_id": "6da3341f",
+          "lecturer": "Muh. Chaerur Rijal, S.T.,M.T",
+          "status": "granted",
+          "timestamp": "18:13:52"
+        },
+        "-OVHiXtpOrTk8EvCFiKq": {
+          "card_id": "6da3341f",
+          "lecturer": "",
+          "status": "locked",
+          "timestamp": "18:14:07"
+        },
+        "-OVHlCvn4uXiWBOh8v-l": {
+          "card_id": "6da3341f",
+          "lecturer": "Muh. Chaerur Rijal, S.T.,M.T",
+          "status": "granted",
+          "timestamp": "18:25:47"
+        },
+        "-OVHlPQo-FIDn_YRe6e1": {
+          "card_id": "6da3341f",
+          "lecturer": "",
+          "status": "locked",
+          "timestamp": "18:26:39"
+        }
+      }
+    },
+    "door_status": {
+      "solenoid_locked": true
+    },
+    "schedule": [
+      {
+        "day": "Senin",
+        "end_time": "13:50",
+        "kelas": "1B-ELKA3",
+        "lecturer": [
+          {
+            "card_id": "6da3341f",
+            "name": "Muh. Chaerur Rijal, S.T.,M.T"
+          },
+          {
+            "card_id": "961dd605",
+            "name": "Ir. Kifaya, M.T"
+          },
+          {
+            "card_id": "956cd605",
+            "name": "Maya Itasari, S.T., M.T"
+          }
+        ],
+        "matkul": "Bengkel Mekanik dan Elektronika",
+        "start_time": "07:30"
+      },
+      {
+        "card_id": "9abc7900",
+        "day": "Senin",
+        "end_time": "23:59",
+        "lecturer": "Syamruddin, S.T.,M.T",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "7677d505",
+        "day": "Senin",
+        "end_time": "23:59",
+        "lecturer": "Rumah Tangga",
+        "start_time": "00:00"
+      },
+      {
+        "day": "Selasa",
+        "end_time": "13:50",
+        "kelas": "1A-ELKA3",
+        "lecturer": [
+          {
+            "card_id": "6da3341f",
+            "name": "Muh. Chaerur Rijal, S.T.,M.T"
+          },
+          {
+            "card_id": "961dd605",
+            "name": "Ir. Kifaya, M.T"
+          },
+          {
+            "card_id": "956cd605",
+            "name": "Maya Itasari, S.T., M.T"
+          }
+        ],
+        "matkul": "Bengkel Mekanik dan Elektronika",
+        "start_time": "07:30"
+      },
+      {
+        "card_id": "9abc7900",
+        "day": "Selasa",
+        "end_time": "23:59",
+        "lecturer": "Syamruddin, S.T.,M.T",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "7677d505",
+        "day": "Selasa",
+        "end_time": "23:59",
+        "lecturer": "Rumah Tangga",
+        "start_time": "00:00"
+      },
+      {
+        "day": "Rabu",
+        "end_time": "13:50",
+        "kelas": "1C-ELKA3",
+        "lecturer": [
+          {
+            "card_id": "6da3341f",
+            "name": "Muh. Chaerur Rijal, S.T.,M.T"
+          },
+          {
+            "card_id": "961dd605",
+            "name": "Ir. Kifaya, M.T"
+          },
+          {
+            "card_id": "956cd605",
+            "name": "Maya Itasari, S.T., M.T"
+          }
+        ],
+        "matkul": "Bengkel Mekanik dan Elektronika",
+        "start_time": "07:30"
+      },
+      {
+        "card_id": "9abc7900",
+        "day": "Rabu",
+        "end_time": "23:59",
+        "lecturer": "Syamruddin, S.T.,M.T",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "7677d505",
+        "day": "Rabu",
+        "end_time": "23:59",
+        "lecturer": "Rumah Tangga",
+        "start_time": "00:00"
+      },
+      {
+        "day": "Kamis",
+        "end_time": "13:50",
+        "kelas": "1A-ELKA4",
+        "lecturer": [
+          {
+            "card_id": "d4a71e85",
+            "name": "Muh. Chaerur Rijal, S.T.,M.T"
+          },
+          {
+            "card_id": "961dd605",
+            "name": "Ir. Kifaya, M.T"
+          },
+          {
+            "card_id": "956cd605",
+            "name": "Maya Itasari, S.T., M.T"
+          }
+        ],
+        "matkul": "Bengkel Mekanik dan Elektronika",
+        "start_time": "07:30"
+      },
+      {
+        "card_id": "9abc7900",
+        "day": "Kamis",
+        "end_time": "23:59",
+        "lecturer": "Syamruddin, S.T.,M.T",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "7677d505",
+        "day": "Kamis",
+        "end_time": "23:59",
+        "lecturer": "Rumah Tangga",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "9abc7900",
+        "day": "Jumat",
+        "end_time": "23:59",
+        "lecturer": "Syamruddin, S.T.,M.T",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "7677d505",
+        "day": "Jumat",
+        "end_time": "23:59",
+        "lecturer": "Rumah Tangga",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "9abc7900",
+        "day": "Sabtu",
+        "end_time": "23:59",
+        "lecturer": "Syamruddin, S.T.,M.T",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "7677d505",
+        "day": "Sabtu",
+        "end_time": "23:59",
+        "lecturer": "Rumah Tangga",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "9abc7900",
+        "day": "Minggu",
+        "end_time": "23:59",
+        "lecturer": "Syamruddin, S.T.,M.T",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "7677d505",
+        "day": "Minggu",
+        "end_time": "23:59",
+        "lecturer": "Rumah Tangga",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "6da3341f",
+        "day": "Rabu",
+        "end_time": "20:00",
+        "id": 1752651327266.8157,
+        "kelas": "3B-Elka",
+        "lecturer": "Muh. Chaerur Rijal, S.T.,M.T",
+        "matkul": "Mekatronika",
+        "start_time": "13:00"
+      }
+    ],
+    "sensor_pir": {
+      "motion_detected": false
+    }
+  },
+  "room2": {
+    "door_status": {
+      "solenoid_locked": true
+    },
+    "schedule": [
+      {
+        "day": "Senin",
+        "end_time": "12:00",
+        "kelas": "2B-ELKA3",
+        "lecturer": [
+          {
+            "card_id": "aec2d805",
+            "name": " Zainal Abidin, S.T., M.T"
+          },
+          {
+            "card_id": "d4a71e85",
+            "name": "Kartika Dewi, S.T.,M.T"
+          },
+          {
+            "card_id": "d9d1d605 ",
+            "name": "Auliya Nabila, S.T., M.T"
+          }
+        ],
+        "matkul": "Elektronika Industri",
+        "start_time": "07:30"
+      },
+      {
+        "card_id": "5e487e00",
+        "day": "Senin",
+        "end_time": "23:59",
+        "lecturer": "Syukri, S.T.,M.T",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "7677d505",
+        "day": "Senin",
+        "end_time": "23:59",
+        "lecturer": "Rumah Tangga",
+        "start_time": "00:00"
+      },
+      {
+        "day": "Selasa",
+        "end_time": "19:50",
+        "kelas": "2C-ELKA3",
+        "lecturer": [
+          {
+            "card_id": "aec2d805",
+            "name": " Zainal Abidin, S.T., M.T"
+          },
+          {
+            "card_id": "d4a71e85",
+            "name": "Kartika Dewi, S.T.,M.T"
+          },
+          {
+            "card_id": "d9d1d605 ",
+            "name": "Auliya Nabila, S.T., M.T"
+          }
+        ],
+        "matkul": "Elektronika Industri",
+        "start_time": "14:40"
+      },
+      {
+        "card_id": "5e487e00",
+        "day": "Selasa",
+        "end_time": "23:59",
+        "lecturer": "Syukri, S.T.,M.T",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "7677d505",
+        "day": "Selasa",
+        "end_time": "23:59",
+        "lecturer": "Rumah Tangga",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "5e487e00",
+        "day": "Rabu",
+        "end_time": "23:59",
+        "lecturer": "Syukri, S.T.,M.T",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "7677d505",
+        "day": "Rabu",
+        "end_time": "23:59",
+        "lecturer": "Rumah Tangga",
+        "start_time": "00:00"
+      },
+      {
+        "day": "Rabu",
+        "end_time": "19:50",
+        "kelas": "2C-ELKA3",
+        "lecturer": [
+          {
+            "card_id": "9cd3d505",
+            "name": "Dharma Aryani, S.T., M.T.,Ph.D."
+          },
+          {
+            "card_id": "961dd605",
+            "name": "Ir. Kifaya, M.T"
+          },
+          {
+            "card_id": "d9d1d605 ",
+            "name": "Auliya Nabila, S.T., M.T"
+          }
+        ],
+        "matkul": "Praktikum Sistem Kendali",
+        "start_time": "13:50"
+      },
+      {
+        "day": "Kamis",
+        "end_time": "12:00",
+        "kelas": "2A-ELKA3",
+        "lecturer": [
+          {
+            "card_id": "aec2d805",
+            "name": " Zainal Abidin, S.T., M.T"
+          },
+          {
+            "card_id": "d4a71e85",
+            "name": "Kartika Dewi, S.T.,M.T"
+          },
+          {
+            "card_id": "d9d1d605 ",
+            "name": "Auliya Nabila, S.T., M.T"
+          }
+        ],
+        "matkul": "Elektronika Industri",
+        "start_time": "07:30"
+      },
+      {
+        "day": "Kamis",
+        "end_time": "19:50",
+        "kelas": "2B-ELKA3",
+        "lecturer": [
+          {
+            "card_id": "9cd3d505",
+            "name": "Dharma Aryani, S.T., M.T.,Ph.D."
+          },
+          {
+            "card_id": "961dd605",
+            "name": "Ir. Kifaya, M.T"
+          },
+          {
+            "card_id": "d9d1d605 ",
+            "name": "Auliya Nabila, S.T., M.T"
+          }
+        ],
+        "matkul": "Praktikum Sistem Kendali",
+        "start_time": "13:50"
+      },
+      {
+        "card_id": "5e487e00",
+        "day": "Kamis",
+        "end_time": "23:59",
+        "lecturer": "Syukri, S.T.,M.T",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "7677d505",
+        "day": "Kamis",
+        "end_time": "23:59",
+        "lecturer": "Rumah Tangga",
+        "start_time": "00:00"
+      },
+      {
+        "day": "Jumat",
+        "end_time": "13:50",
+        "kelas": "2A-ELKA3",
+        "lecturer": [
+          {
+            "card_id": "9cd3d505",
+            "name": "Dharma Aryani, S.T., M.T.,Ph.D."
+          },
+          {
+            "card_id": "961dd605",
+            "name": "Ir. Kifaya, M.T"
+          },
+          {
+            "card_id": "d9d1d605 ",
+            "name": "Auliya Nabila, S.T., M.T"
+          }
+        ],
+        "matkul": "Praktikum Sistem Kendali",
+        "start_time": "07:30"
+      },
+      {
+        "card_id": "5e487e00",
+        "day": "Jumat",
+        "end_time": "23:59",
+        "lecturer": "Syukri, S.T.,M.T",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "7677d505",
+        "day": "Jumat",
+        "end_time": "23:59",
+        "lecturer": "Rumah Tangga",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "5e487e00",
+        "day": "Sabtu",
+        "end_time": "23:59",
+        "lecturer": "Syukri, S.T.,M.T",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "7677d505",
+        "day": "Sabtu",
+        "end_time": "23:59",
+        "lecturer": "Rumah Tangga",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "5e487e00",
+        "day": "Minggu",
+        "end_time": "23:59",
+        "lecturer": "Syukri, S.T.,M.T",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "7677d505",
+        "day": "Minggu",
+        "end_time": "23:59",
+        "lecturer": "Rumah Tangga",
+        "start_time": "00:00"
+      }
+    ],
+    "sensor_pir": {
+      "motion_detected": false
+    }
+  },
+  "room3": {
+    "access_history": {
+      "access_records": {
+        "-OVHUnmRb1zPgxOvYjW2": {
+          "card_id": "5e487e00",
+          "lecturer": "",
+          "status": "denied",
+          "timestamp": "17:09:44"
+        },
+        "-OVHUoTARxmvnIo5ShCN": {
+          "card_id": "5e487e00",
+          "lecturer": "",
+          "status": "denied",
+          "timestamp": "17:09:47"
+        },
+        "-OVHUq2ALYkHXO73uWp0": {
+          "card_id": "5e487e00",
+          "lecturer": "",
+          "status": "denied",
+          "timestamp": "17:09:54"
+        },
+        "-OVHUqWcV79v4lmWCSZA": {
+          "card_id": "5e487e00",
+          "lecturer": "",
+          "status": "denied",
+          "timestamp": "17:09:55"
+        },
+        "-OVHUrqZQVCRl1R5IicG": {
+          "card_id": "5e487e00",
+          "lecturer": "",
+          "status": "denied",
+          "timestamp": "17:10:01"
+        },
+        "-OVHUuJVGkOc2GUE_jm3": {
+          "card_id": "6da3341f",
+          "lecturer": "Muh. Chaerur Rijal, S.T.,M.T",
+          "status": "denied",
+          "timestamp": "17:10:11"
+        },
+        "-OVHUulTRC-XGf6LcCec": {
+          "card_id": "6da3341f",
+          "lecturer": "Muh. Chaerur Rijal, S.T.,M.T",
+          "status": "denied",
+          "timestamp": "17:10:13"
+        },
+        "-OVHUyxu0FCM0dcyD475": {
+          "card_id": "7677d505",
+          "lecturer": "Rumah Tangga",
+          "status": "granted",
+          "timestamp": "17:10:30"
+        },
+        "-OVHUzZUvyFOr_380xZe": {
+          "card_id": "7677d505",
+          "lecturer": "",
+          "status": "locked",
+          "timestamp": "17:10:33"
+        }
+      }
+    },
+    "door_status": {
+      "solenoid_locked": true
+    },
+    "schedule": [
+      {
+        "day": "Senin",
+        "end_time": "19:50",
+        "kelas": "2A-ELKA3",
+        "lecturer": [
+          {
+            "card_id": "bda4d505",
+            "name": "Reski Praminasari, S.T.,M.T."
+          },
+          {
+            "card_id": "8392d605",
+            "name": "Ir. Daniel Kambuno, M.T."
+          },
+          {
+            "card_id": "6990d605",
+            "name": "Bagus Prasetiyo, S.Pd.,M.T."
+          }
+        ],
+        "matkul": "Praktikum Elektronika Sequensial",
+        "start_time": "13:50"
+      },
+      {
+        "card_id": "9b5cd605",
+        "day": "Senin",
+        "end_time": "23:59",
+        "lecturer": "Dina Desriani ",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "7677d505",
+        "day": "Senin",
+        "end_time": "23:59",
+        "lecturer": "Rumah Tangga",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "9b5cd605",
+        "day": "Selasa",
+        "end_time": "23:59",
+        "lecturer": "Dina Desriani ",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "7677d505",
+        "day": "Selasa",
+        "end_time": "23:59",
+        "lecturer": "Rumah Tangga",
+        "start_time": "00:00"
+      },
+      {
+        "day": "Rabu",
+        "end_time": "13:50",
+        "kelas": "2C-ELKA3",
+        "lecturer": [
+          {
+            "card_id": "bda4d505",
+            "name": "Reski Praminasari, S.T.,M.T."
+          },
+          {
+            "card_id": "8392d605",
+            "name": "Ir. Daniel Kambuno, M.T."
+          },
+          {
+            "card_id": "6990d605",
+            "name": "Bagus Prasetiyo, S.Pd.,M.T."
+          }
+        ],
+        "matkul": "Praktikum Elektronika Sequensial",
+        "start_time": "07:30"
+      },
+      {
+        "day": "Rabu",
+        "end_time": "19:50",
+        "kelas": "2B-ELKA3",
+        "lecturer": [
+          {
+            "card_id": "bda4d505",
+            "name": "Reski Praminasari, S.T.,M.T."
+          },
+          {
+            "card_id": "8392d605",
+            "name": "Ir. Daniel Kambuno, M.T."
+          },
+          {
+            "card_id": "6990d605",
+            "name": "Bagus Prasetiyo, S.Pd.,M.T."
+          }
+        ],
+        "matkul": "Praktikum Elektronika Sequensial",
+        "start_time": "13:50"
+      },
+      {
+        "card_id": "9b5cd605",
+        "day": "Rabu",
+        "end_time": "23:59",
+        "lecturer": "Dina Desriani ",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "7677d505",
+        "day": "Rabu",
+        "end_time": "23:59",
+        "lecturer": "Rumah Tangga",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "9b5cd605",
+        "day": "Kamis",
+        "end_time": "23:59",
+        "lecturer": "Dina Desriani ",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "7677d505",
+        "day": "Kamis",
+        "end_time": "23:59",
+        "lecturer": "Rumah Tangga",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "6da3341f",
+        "day": "Jumat",
+        "end_time": "10:00",
+        "kelas": "2C-ELKA3",
+        "lecturer": "Muh. Chaerur Rijal, S.T.,M.T",
+        "matkul": "Mikrokontroler",
+        "start_time": "08:20"
+      },
+      {
+        "card_id": "6da3341f",
+        "day": "Jumat",
+        "end_time": "12:00",
+        "kelas": "2B-ELKA3",
+        "lecturer": "Muh. Chaerur Rijal, S.T.,M.T",
+        "matkul": "Mikrokontroler",
+        "start_time": "10:20"
+      },
+      {
+        "card_id": "9b5cd605",
+        "day": "Jumat",
+        "end_time": "23:59",
+        "lecturer": "Dina Desriani ",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "7677d505",
+        "day": "Jumat",
+        "end_time": "23:59",
+        "lecturer": "Rumah Tangga",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "9b5cd605",
+        "day": "Sabtu",
+        "end_time": "23:59",
+        "lecturer": "Dina Desriani ",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "7677d505",
+        "day": "Sabtu",
+        "end_time": "23:59",
+        "lecturer": "Rumah Tangga",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "9b5cd605",
+        "day": "Minggu",
+        "end_time": "23:59",
+        "lecturer": "Dina Desriani ",
+        "start_time": "00:00"
+      },
+      {
+        "card_id": "7677d505",
+        "day": "Minggu",
+        "end_time": "23:59",
+        "lecturer": "Rumah Tangga",
+        "start_time": "00:00"
+      }
+    ],
+    "sensor_pir": {
+      "motion_detected": false
+    }
+  }
+}
